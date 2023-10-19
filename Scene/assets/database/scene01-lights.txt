@@ -1,0 +1,320 @@
+***
+name: ambient
+position: 20 58 -37 0
+diffuse: 43 44 90 255
+atten: 0 0.000516323 0.000846713 1
+direction: -1 -9 7 1
+params: 1 1 1 1
+status: 1
+***
+name: moon
+position: 268 62 54 1
+diffuse: 241 235 156 125
+atten: 0 0.107626 0.000443145 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: moon2
+position: 213 67.8187 36 1
+diffuse: 241 235 156 125
+atten: 0 0.000232445 0.0457716 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: moon3
+position: 193 52.8187 65 1
+diffuse: 241 235 156 125
+atten: 0 0.000232445 0.010765 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: flashlight
+position: 5.04994 0.89 -42.2593 1
+diffuse: 255 255 237 125
+atten: 0 0.677045 1.45541 1
+direction: 0 -1 -9 1
+params: 1 -90 -90 1
+status: 1
+***
+name: lantern
+position: 1.63 1.957 -39.02 1
+diffuse: 255 255 237 125
+atten: 0 0.926995 10.2719 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: fireplace
+position: 3.84995 1.08 -40.4104 1
+diffuse: 213 72 1 255
+atten: 0 0.926995 4.04926 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star1
+position: 217 37 14 1
+diffuse: 255 245 225 125
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star2
+position: 226 43 4 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star3
+position: 263 69 29 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star4
+position: 215 69 11 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star5
+position: 221 61 -2 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star6
+position: 178 59 81 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star7
+position: 160 60 -7 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star8
+position: 222 74 43 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star9
+position: 154 62 28 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star10
+position: 156 36 41 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star11
+position: 208 66 -17 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star12
+position: 156 54 54 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star13
+position: 211 50 -15 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star14
+position: 217 58 70 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star15
+position: 210 30 48 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star16
+position: 168 28 54 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star17
+position: 163 40 78 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star18
+position: 228 35 40 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star19
+position: 249 22 90 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star20
+position: 234 31 121 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star21
+position: 254 55 172 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star22
+position: 278 94 196 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star23
+position: 279 85 242 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star24
+position: 279 124 242 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star25
+position: 254 68 -28 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: star26
+position: 290 90 -45 1
+diffuse: 255 245 225 255
+atten: 0 1.4027e-05 0.55846 1
+direction: 1 -1 1 1
+params: 0 1 1 1
+status: 1
+***
+name: light36
+position: 0 0 0 1
+diffuse: 255 255 255 255
+atten: 0 0 0 1
+direction: 0 -1 0 1
+params: 0 1 1 1
+status: 0
+***
+name: light37
+position: 0 0 0 1
+diffuse: 255 255 255 255
+atten: 0 0 0 1
+direction: 0 -1 0 1
+params: 0 1 1 1
+status: 0
+***
+name: light38
+position: 0 0 0 1
+diffuse: 255 255 255 255
+atten: 0 0 0 1
+direction: 0 -1 0 1
+params: 0 1 1 1
+status: 0
+***
+name: light37
+position: 0 0 0 1
+diffuse: 255 255 255 255
+atten: 0 0 0 1
+direction: 0 -1 0 1
+params: 0 1 1 1
+status: 0
+***
+name: light38
+position: 0 0 0 1
+diffuse: 255 255 255 255
+atten: 0 0 0 1
+direction: 0 -1 0 1
+params: 0 1 1 1
+status: 0
+***
+name: light39
+position: 0 0 0 1
+diffuse: 255 255 255 255
+atten: 0 0 0 1
+direction: 0 -1 0 1
+params: 0 1 1 1
+status: 0
+***
+name: light38
+position: 0 0 0 1
+diffuse: 255 255 255 255
+atten: 0 0 0 1
+direction: 0 -1 0 1
+params: 0 1 1 1
+status: 0

@@ -1,0 +1,20 @@
+-- Lower camera
+cameraEye: -3 2 -44 
+cameraTarget: 109 16 9
+cameraUpVector: 0 1 0
+
+
+-- Upper camera
+cameraEye: -13 4 -53 
+cameraTarget: 71 13 9
+cameraUpVector: 0 1 0
+
+cameraEye: -3 2 -44 
+cameraTarget: 109 16 9
+cameraUpVector: 0 1 0
+
+-- Side camera
+cameraEye: -14 4 -48 
+cameraTarget: 122 10 9
+cameraUpVector: 0 1 0
+

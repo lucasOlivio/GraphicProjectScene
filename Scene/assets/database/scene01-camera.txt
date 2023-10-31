@@ -1,5 +1,3 @@
-
-
 cameraEye: -3 2 -44 
 cameraTarget: 109 16 9
 cameraUpVector: 0 1 0
